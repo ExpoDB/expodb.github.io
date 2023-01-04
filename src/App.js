@@ -14,7 +14,7 @@ import Contact from "./pages/Contact";
 function App() {
 	return (
 		<div className="App">
-			<Router basename={`/${process.env.PUBLIC_URL}`}>
+			<Router>
 				<Header />
 				<Routes>
 					<Route path="/" element={<Home />} />
