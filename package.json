@@ -1,7 +1,7 @@
 {
 	"name": "nft_marketplace",
 	"version": "0.1.0",
-	"homepage": "https://expodb.github.io",
+	"homepage": "https://nft.expolab.org",
 	"private": true,
 	"dependencies": {
 		"@craco/craco": "^6.4.0",
