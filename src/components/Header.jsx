@@ -14,19 +14,19 @@ function Header() {
 							Home
 						</a>
 						<a
-							href="/Products"
+							href="/#/products"
 							class="py-2 px-6 flex rounded-lg hover:bg-pink-600 hover:text-white"
 						>
 							Products
 						</a>
 						<a
-							href="/contact"
+							href="/#/contact"
 							class="py-2 px-6 flex rounded-lg hover:bg-pink-600 hover:text-white"
 						>
 							Contact
 						</a>
 						<a
-							href="/teams"
+							href="/#/teams"
 							class="py-2 px-6 flex rounded-lg hover:bg-pink-600 hover:text-white"
 						>
 							Team
